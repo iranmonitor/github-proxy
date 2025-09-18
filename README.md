@@ -1,5 +1,7 @@
 # GitHub Raw Proxy for cPanel
 
+> Persian/فارسی: [Description/توضیحات](https://github.com/iranmonitor/github-proxy/blob/main/README_FA.md)
+
 A lightweight **Flask proxy** for `raw.githubusercontent.com`, designed for cPanel shared hosting.
 ✅ Automatically rewrites `raw.githubusercontent.com` links to your proxy domain so scripts work in blocked regions.
 
